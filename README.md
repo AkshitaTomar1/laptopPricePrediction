@@ -22,7 +22,7 @@ The dataset includes the following features:
 - **Display Size**: Size of the screen (in inches)
 - **Operating System**: OS type (Windows, MacOS, etc.)
 - **Price**: Target variable, the price of the laptop in USD
-  **some other features as well**
+- **some other features as well**
 
 
 ## Steps to Run the Project
