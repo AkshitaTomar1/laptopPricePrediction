@@ -1,4 +1,4 @@
-# laptopPricePrediction
+
 # Laptop Price Prediction
 
 This project aims to predict the prices of laptops based on various features such as brand, processor type, RAM size, storage capacity, and screen size. The goal is to build a machine learning model that can estimate the price of a laptop given these attributes.
